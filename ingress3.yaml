@@ -15,4 +15,4 @@ spec:
           service:
             name: argocd-server
             port:
-              number: 8080 # Use the target port of argocd-server service
+              number: 80 # Use the target port of argocd-server service
