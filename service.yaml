@@ -4,7 +4,7 @@ metadata:
   name: argocd-server
   namespace: argocd
   annotations:
-    cloud.google.com/neg: '{"exposed_ports": {"80":{"name": "argo33-neg-develop"}}}'
+    cloud.google.com/neg: '{"exposed_ports": {"80":{"name": "argo3333-neg-develop"}}}'
 spec:
   type: ClusterIP
   ports:
